@@ -1,4 +1,0 @@
-Hello Git!
-I am learning git
-This is my practice branch
-New change for pull request
